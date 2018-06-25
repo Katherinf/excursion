@@ -1,0 +1,31 @@
+#heading {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+*{
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+ a{
+    color: aquamarine;
+    font-size: 16px;
+}
+img{
+    margin-top: 1em;
+}
+h1{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+.content{
+    color: grey;
+    font-size: 21px;
+}
+.copyright{
+    color: grey;
+    text-align: right;
+}
